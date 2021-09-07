@@ -1,5 +1,5 @@
 from RFEM.initModel import *
-from RFEM.enums import MemberLoadType, MemberLoadDistribution, LoadDirectionType
+from enums import MemberLoadType, MemberLoadDistribution, LoadDirectionType
 from enum import Enum
 
 class MemberLoad():
