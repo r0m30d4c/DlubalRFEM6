@@ -1,46 +1,16 @@
-TypesForSurfaces package
-========================
-
-Submodules
-----------
-
-TypesForSurfaces\.surfaceEccentricity module
---------------------------------------------
-
-.. automodule:: TypesForSurfaces.surfaceEccentricity
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-TypesForSurfaces\.surfaceMeshRefinements module
------------------------------------------------
-
-.. automodule:: TypesForSurfaces.surfaceMeshRefinements
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-TypesForSurfaces\.surfaceStiffnessModification module
------------------------------------------------------
-
-.. automodule:: TypesForSurfaces.surfaceStiffnessModification
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-TypesForSurfaces\.surfaceSupport module
----------------------------------------
-
-.. automodule:: TypesForSurfaces.surfaceSupport
-    :members:
-    :undoc-members:
-    :show-inheritance:
+**Types for Surfaces**
+=========================
+#. :doc:`surfaceeccentricity`
+#. :doc:`surfacemeshrefinement`
+#. :doc:`surfacestiffnessmodification`
+#. :doc:`surfacesupport`
 
 
-Module contents
----------------
+.. toctree::
+   :maxdepth: 1
+   :hidden:
 
-.. automodule:: TypesForSurfaces
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   surfaceeccentricity
+   surfacemeshrefinement
+   surfacestiffnessmodification
+   surfacesupport

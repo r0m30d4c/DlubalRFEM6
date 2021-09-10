@@ -1,38 +1,13 @@
-TypesForSolids package
-======================
+**Types for Solids**
+=====================
+#. :doc:`solidcontact`
+#. :doc:`solidgas`
+#. :doc:`solidmeshrefinement`
 
-Submodules
-----------
+.. toctree::
+   :maxdepth: 1
+   :hidden:
 
-TypesForSolids\.solidContact module
------------------------------------
-
-.. automodule:: TypesForSolids.solidContact
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-TypesForSolids\.solidGas module
--------------------------------
-
-.. automodule:: TypesForSolids.solidGas
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-TypesForSolids\.solidMeshRefinement module
-------------------------------------------
-
-.. automodule:: TypesForSolids.solidMeshRefinement
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
-Module contents
----------------
-
-.. automodule:: TypesForSolids
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   solidcontact
+   solidgas
+   solidmeshrefinement

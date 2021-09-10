@@ -1,22 +1,9 @@
-TypesForSpecialObjects package
-==============================
+**Basic Objects**
+=====================
+#. :doc:`surfacecontacttype`
 
-Submodules
-----------
+.. toctree::
+   :maxdepth: 1
+   :hidden:
 
-TypesForSpecialObjects\.surfaceContactType module
--------------------------------------------------
-
-.. automodule:: TypesForSpecialObjects.surfaceContactType
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
-Module contents
----------------
-
-.. automodule:: TypesForSpecialObjects
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   surfacecontacttype

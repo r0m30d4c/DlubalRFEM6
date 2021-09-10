@@ -1,126 +1,34 @@
-BasicObjects package
-====================
+**Basic Objects**
+=====================
+#. :doc:`line`
+#. :doc:`lineset`
+#. :doc:`material`
+#. :doc:`member_by_line`
+#. :doc:`member`
+#. :doc:`node`
+#. :doc:`opening`
+#. :doc:`section`
+#. :doc:`solid`
+#. :doc:`solidset`
+#. :doc:`surface`
+#. :doc:`surfaceset`
+#. :doc:`thickness`
 
-Submodules
-----------
+.. toctree::
+   :maxdepth: 1
+   :hidden:
 
-BasicObjects\.line module
--------------------------
-
-.. automodule:: BasicObjects.line
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.lineSet module
-----------------------------
-
-.. automodule:: BasicObjects.lineSet
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.material module
------------------------------
-
-.. automodule:: BasicObjects.material
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.member module
----------------------------
-
-.. automodule:: BasicObjects.member
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.memberSet module
-------------------------------
-
-.. automodule:: BasicObjects.memberSet
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.member\_by\_line module
--------------------------------------
-
-.. automodule:: BasicObjects.member_by_line
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.node module
--------------------------
-
-.. automodule:: BasicObjects.node
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.opening module
-----------------------------
-
-.. automodule:: BasicObjects.opening
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.section module
-----------------------------
-
-.. automodule:: BasicObjects.section
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.solid module
---------------------------
-
-.. automodule:: BasicObjects.solid
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.solidSet module
------------------------------
-
-.. automodule:: BasicObjects.solidSet
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.surface module
-----------------------------
-
-.. automodule:: BasicObjects.surface
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.surfaceSet module
--------------------------------
-
-.. automodule:: BasicObjects.surfaceSet
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-BasicObjects\.thickness module
-------------------------------
-
-.. automodule:: BasicObjects.thickness
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
-Module contents
----------------
-
-.. automodule:: BasicObjects
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   line
+   lineset
+   material
+   member_by_line
+   member
+   memberset
+   node
+   opening
+   section
+   solid
+   solidset
+   surface
+   surfaceset
+   thickness

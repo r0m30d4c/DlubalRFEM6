@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # RFEM documentation build configuration file, created by
-# sphinx-quickstart on Tue Sep  7 15:58:09 2021.
+# sphinx-quickstart on Thu Sep  9 13:08:54 2021.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -17,9 +17,9 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-import os
-import sys
-sys.path.insert(0, os.path.abspath('../../RFEM/'))
+#import os
+#import sys
+#sys.path.insert(0, os.path.abspath('../../Commands/'))
 
 
 # -- General configuration ------------------------------------------------
@@ -31,8 +31,7 @@ sys.path.insert(0, os.path.abspath('../../RFEM/'))
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.autodoc']
-
+extensions = ['sphinx.ext.autodoc', 'sphinx.ext.napoleon']
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
@@ -84,7 +83,6 @@ todo_include_todos = False
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
-
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
@@ -154,4 +152,5 @@ texinfo_documents = [
 ]
 
 
-autodoc_mock_imports = ["RFEM.initModel"]
+
+autodoc_mock_imports = ["initModel", "enums"]

@@ -1,54 +1,18 @@
-LoadCasesAndCombinations package
-================================
-
-Submodules
-----------
-
-LoadCasesAndCombinations\.designSituation module
-------------------------------------------------
-
-.. automodule:: LoadCasesAndCombinations.designSituation
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-LoadCasesAndCombinations\.loadCase module
------------------------------------------
-
-.. automodule:: LoadCasesAndCombinations.loadCase
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-LoadCasesAndCombinations\.resultCombination module
---------------------------------------------------
-
-.. automodule:: LoadCasesAndCombinations.resultCombination
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-LoadCasesAndCombinations\.stabilityAnalysisSettings module
-----------------------------------------------------------
-
-.. automodule:: LoadCasesAndCombinations.stabilityAnalysisSettings
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-LoadCasesAndCombinations\.staticAnalysisSettings module
--------------------------------------------------------
-
-.. automodule:: LoadCasesAndCombinations.staticAnalysisSettings
-    :members:
-    :undoc-members:
-    :show-inheritance:
+**Load Cases and Combinations**
+===================================
+#. :doc:`designsituation`
+#. :doc:`loadcase`
+#. :doc:`resultcombination`
+#. :doc:`stabilityanalysissettings`
+#. :doc:`staticanalysissettings`
 
 
-Module contents
----------------
+.. toctree::
+   :maxdepth: 1
+   :hidden:
 
-.. automodule:: LoadCasesAndCombinations
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   designsituation
+   loadcase
+   resultcombination
+   stabilityanalysissettings
+   staticanalysissettings
