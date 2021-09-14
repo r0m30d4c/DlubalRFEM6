@@ -1,0 +1,13 @@
+**Commands**
+===============
+
+#. :doc:`basicobjects`
+#. :doc:`loads`
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   basicobjects
+   loads
