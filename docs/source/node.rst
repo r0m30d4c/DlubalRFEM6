@@ -1,6 +1,6 @@
 Node
 ========
-.. function:: Node(``no``, ``coordinate_X``, ``coordinate_Y``, ``coordinate_Z``, ``comment*``, ``params*``)
+.. function:: Node(no, coordinate_X, coordinate_Y, coordinate_Z, comment*, params*)
 
 * Parameters
 
