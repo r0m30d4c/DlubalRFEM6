@@ -10,6 +10,12 @@ Node
 		* **coordinate_Z** (*float*):
 		* **comment** ( *str, optional*): Comments
 		* **params** (*dict, optional*): Parameters
+		
+:func:`Node.Standard`
+:func:`Node.BetweenTwoNodes`
+:func:`Node.BetweenTwoPoints`
+:func:`Node.OnMember`
+:func:`Node.OnLine`
 
 .. function:: Node.Standard(no, coordinate_system, coordinate_system_type, comment*, params*)
 
