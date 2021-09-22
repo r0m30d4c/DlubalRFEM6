@@ -1,6 +1,6 @@
 Node
 ========
-.. function:: Node(no, coordinate_X, coordinate_Y, coordinate_Z, comment*, params*)
+.. function:: Node(``no``, ``coordinate_X``, ``coordinate_Y``, ``coordinate_Z``, ``comment*``, ``params*``)
 
 * Parameters
 
@@ -16,7 +16,7 @@ Node
 :func:`Node.BetweenTwoPoints`
 :func:`Node.OnMember`
 :func:`Node.OnLine`
-``nodeTag`` 
+
 
 .. function:: Node.Standard(no, coordinate_system, coordinate_system_type, comment*, params*)
 
