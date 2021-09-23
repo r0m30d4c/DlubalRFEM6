@@ -20,7 +20,7 @@ Node
 
 * Parameters
 
-		* ``no`` (*int*): 
+		* ``no`` :mod:`int`: 
 		* ``coordinate_system`` (**): 
 		* ``coordinate_system_type`` (**): 
 		* ``comment`` ( *str, optional*): Comments
