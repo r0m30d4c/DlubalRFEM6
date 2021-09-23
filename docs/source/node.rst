@@ -86,9 +86,9 @@ Node
 		* ``comment`` ( *str, optional*): Comments
 		* ``params`` (*dict, optional*): Parameters
 ------------
- ``.. _labelName:``
+ .. _labelName:
 
-``:ref:`labelName``` or ``:ref:`Label text <labelName>```
+:ref:`labelName` or ``:ref:`Label text <labelName>```
 
 
 :func:`Node.OnLine`
