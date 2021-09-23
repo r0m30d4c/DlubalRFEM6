@@ -4,7 +4,7 @@ Node
 
 * Parameters
 
-		* :py:const:`STD_LIST` (*int*): 
+		* :py:const:`STD_LIST` ``int``: 
 		* ``coordinate_X`` (*float*): 
 		* ``coordinate_Y`` (*float*):
 		* ``coordinate_Z`` (*float*):
