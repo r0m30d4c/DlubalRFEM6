@@ -14,6 +14,8 @@ Node
 :label:`Node.Standard` :label:`Node.BetweenTwoNodes` :label:`Node.BetweenTwoPoints` :label:`Node.OnMember` :label:`Node.OnLine`
 
 
+:func:`Node.Standard`
+
 .. function:: Node.Standard(no, coordinate_system, coordinate_system_type, comment*, params*)
 
 * Parameters
