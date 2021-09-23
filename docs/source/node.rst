@@ -17,7 +17,6 @@ Node
 
 
 :ref:`refname`
-------------
 
 
 :func:`Node.Standard`
