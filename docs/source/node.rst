@@ -25,6 +25,7 @@ Node
 		* ``params`` (*dict, optional*): Parameters
 
 :func:`Node.BetweenTwoNodes`
+
 .. function:: Node.BetweenTwoNodes(no, start_node_no, end_node_no, node_reference, length_between_i_and_j, parameters, offset_x, offset_y, offset_z, comment*, params*)
 
 * Parameters
@@ -42,6 +43,7 @@ Node
 		* ``params`` (*dict, optional*): Parameters
 
 :func:`Node.BetweenTwoPoints`
+
 .. function:: Node.BetweenTwoPoints(no, start_point_x, start_point_y, start_point_z, end_point_x, end_point_y, end_point_z, node_reference, parameters, offset_y, offset_z, comment*, params*)
 
 * Parameters
@@ -61,6 +63,7 @@ Node
 		* ``params`` (*dict, optional*): Parameters
 
 :func:`Node.OnMember`
+
 .. function:: Node.OnMember(no, member_number, node_reference, length_between_i_and_j, parameters, comment*, params*)
 
 * Parameters
@@ -74,6 +77,7 @@ Node
 		* ``params`` (*dict, optional*): Parameters
 
 :func:`Node.OnLine`
+
 .. function:: Node.OnLine(no, line_number, node_reference, length_between_i_and_j, parameters, comment*, params*)
 
 * Parameters
