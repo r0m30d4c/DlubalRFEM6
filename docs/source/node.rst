@@ -11,13 +11,8 @@ Node
 		* ``comment`` *str, optional*: Comments
 		* ``params`` *dict, optional*: Parameters
 		
-*:func:`Node.Standard`
-*:func:`Node.BetweenTwoNodes`
-*:func:`Node.BetweenTwoPoints`
-*:func:`Node.OnMember`
-*:func:`Node.OnLine`
+:label:`Node.Standard` :label:`Node.BetweenTwoNodes` :label:`Node.BetweenTwoPoints` :label:`Node.OnMember` :label:`Node.OnLine`
 
-:label:`Node.Standard`
 
 .. function:: Node.Standard(no, coordinate_system, coordinate_system_type, comment*, params*)
 
