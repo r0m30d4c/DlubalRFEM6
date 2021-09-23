@@ -17,7 +17,7 @@ Node
 *:func:`Node.OnMember`
 *:func:`Node.OnLine`
 
-:guilabel:`Node.Standard`
+:label:`Node.Standard`
 
 .. function:: Node.Standard(no, coordinate_system, coordinate_system_type, comment*, params*)
 
