@@ -10,6 +10,8 @@ Node
 		* ``coordinate_Z`` *float*:
 		* ``comment`` *str, optional*: Comments
 		* ``params`` *dict, optional*: Parameters
+------------
+
 		
 :label:`Node.Standard` :label:`Node.BetweenTwoNodes` :label:`Node.BetweenTwoPoints` :label:`Node.OnMember` :label:`Node.OnLine`
 
@@ -25,6 +27,8 @@ Node
 		* ``coordinate_system_type`` (**): 
 		* ``comment`` ( *str, optional*): Comments
 		* ``params`` (*dict, optional*): Parameters
+------------
+
 
 :func:`Node.BetweenTwoNodes`
 
@@ -43,6 +47,8 @@ Node
 		* ``offset_z`` (*int*):
 		* ``comment`` ( *str, optional*): Comments
 		* ``params`` (*dict, optional*): Parameters
+------------
+
 
 :func:`Node.BetweenTwoPoints`
 
@@ -63,6 +69,8 @@ Node
 		* ``offset_z`` (*float*):
 		* ``comment`` ( *str, optional*): Comments
 		* ``params`` (*dict, optional*): Parameters
+------------
+
 
 :func:`Node.OnMember`
 
@@ -77,6 +85,8 @@ Node
 		* ``parameters`` (**):
 		* ``comment`` ( *str, optional*): Comments
 		* ``params`` (*dict, optional*): Parameters
+------------
+
 
 :func:`Node.OnLine`
 
