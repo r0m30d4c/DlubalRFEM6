@@ -11,7 +11,7 @@ Node
 		* ``comment`` *str, optional*: Comments
 		* ``params`` *dict, optional*: Parameters
 		
-:label:`Node.Standard` :label:`Node.BetweenTwoNodes` :label:`Node.BetweenTwoPoints` :label:`Node.OnMember` :label:`Node.OnLine`
+:label:`Node.Standard`_ :label:`Node.BetweenTwoNodes` :label:`Node.BetweenTwoPoints` :label:`Node.OnMember` :label:`Node.OnLine`
 
 ------------
 
