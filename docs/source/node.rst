@@ -102,8 +102,6 @@ Node
 		* ``comment`` ( *str, optional*): Comments
 		* ``params`` (*dict, optional*): Parameters
 		
-``.. _Carine:``
-
-``:ref:`Carine``` 
+reference_	
 
 
