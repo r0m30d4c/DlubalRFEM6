@@ -16,7 +16,9 @@ Node
 ------------		
 
 
-:func:`Node.Standard`
+Node.Standard
+-------------------------------------------------------------------------------
+
 
 .. function:: Node.Standard(no, coordinate_system, coordinate_system_type, comment*, params*)
 
