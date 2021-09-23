@@ -1,5 +1,8 @@
 Node
 ========
+:label:`Node.Standard` :label:`Node.BetweenTwoNodes` :label:`Node.BetweenTwoPoints` :label:`Node.OnMember` :label:`Node.OnLine`
+
+
 .. function:: Node(no, coordinate_X, coordinate_Y, coordinate_Z, comment*, params*)
 
 * Parameters
@@ -10,8 +13,7 @@ Node
 		* ``coordinate_Z`` *float*:
 		* ``comment`` *str, optional*: Comments
 		* ``params`` *dict, optional*: Parameters
-		
-:label:`Node.Standard` :label:`Node.BetweenTwoNodes` :label:`Node.BetweenTwoPoints` :label:`Node.OnMember` :label:`Node.OnLine`
+------------		
 
 
 :func:`Node.Standard`
