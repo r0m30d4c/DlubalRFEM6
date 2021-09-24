@@ -108,15 +108,12 @@ if __name__ == '__main__':
 
     LoadCase(1, 'Eigengewicht', AnalysisType.ANALYSIS_TYPE_STATIC, 1,  1, True, 0.0, 0.0, 1.0)
 
-    SurfaceLoad(1, 1, '1', 1000.0, SurfaceLoadDirection.LOAD_DIRECTION_GLOBAL_Z_OR_USER_DEFINED_W_PROJECTED, 
-                SurfaceLoadDistribution.LOAD_DISTRIBUTION_UNIFORM, '')
+    SurfaceLoad(1, 1, '1', 1000.0, '')
 
     LineLoad(1, 1, str(member_num+1) + ' ' + str(member_num+2) + ' ' + str(member_num+3) + ' ' + str(member_num+4),
-            LineLoadType.LOAD_TYPE_FORCE, LineLoadDistribution.LOAD_DISTRIBUTION_UNIFORM,
-            LoadDirectionType.LOAD_DIRECTION_LOCAL_Z, 2500, '')
+             LoadDirectionType.LOAD_DIRECTION_LOCAL_Z, 2500, '')
 
     MemberLoad(1, 1, Perimeter_Cols,
-                MemberLoadType.LOAD_TYPE_FORCE, MemberLoadDistribution.LOAD_DISTRIBUTION_UNIFORM,
                 LoadDirectionType.LOAD_DIRECTION_LOCAL_X, -500, '')
 
     # Alles berechnen
