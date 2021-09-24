@@ -5,7 +5,7 @@ Node
 
 .. function:: Node(no, coordinate_X, coordinate_Y, coordinate_Z, comment*, params*)
 
-* Parameters
+* Arguments
 
 		* ``no`` *int*: 
 		* ``coordinate_X`` *float*: 
@@ -22,7 +22,7 @@ Node.Standard
 
 .. function:: Node.Standard(no, coordinate_system, coordinate_system_type, comment*, params*)
 
-* Parameters
+* Arguments
 
 		* ``no`` :mod:`int`: 
 		* ``coordinate_system`` (**): 
@@ -36,7 +36,7 @@ Node.Standard
 
 .. function:: Node.BetweenTwoNodes(no, start_node_no, end_node_no, node_reference, length_between_i_and_j, parameters, offset_x, offset_y, offset_z, comment*, params*)
 
-* Parameters
+* Arguments
 
 		* ``no`` (*int*): 
 		* ``start_node_no`` (*int*): 
@@ -56,7 +56,7 @@ Node.Standard
 
 .. function:: Node.BetweenTwoPoints(no, start_point_x, start_point_y, start_point_z, end_point_x, end_point_y, end_point_z, node_reference, parameters, offset_y, offset_z, comment*, params*)
 
-* Parameters
+* Arguments
 
 		* ``no** (*int*): 
 		* ``start_point_x`` (*float*): 
@@ -78,7 +78,7 @@ Node.Standard
 
 .. function:: Node.OnMember(no, member_number, node_reference, length_between_i_and_j, parameters, comment*, params*)
 
-* Parameters
+* Arguments
 
 		* ``no`` (*int*): 
 		* ``member_number`` (*str*): 
@@ -94,7 +94,7 @@ Node.Standard
 
 .. function:: Node.OnLine(no, line_number, node_reference, length_between_i_and_j, parameters, comment*, params*)
 
-* Parameters
+* Arguments
 
 		* ``no`` (*int*): 
 		* ``line_number`` (*str*): 
